@@ -1,1 +1,1 @@
-# Quartz.Unity.Extensions
+# Quartz.Unity
