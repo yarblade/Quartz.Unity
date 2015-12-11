@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Example", "Example", "{606192B4-D6CE-457B-AF1D-70DECEC81C4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quartz.Unity.Example", "Example\Quartz.Unity.Example\Quartz.Unity.Example.csproj", "{2DBE9425-FC4A-4647-9F09-12277023A610}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quartz.Unity", "Quartz.Unity\Quartz.Unity.csproj", "{E9D1B8CD-92DA-449D-A21B-864440F71019}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DBE9425-FC4A-4647-9F09-12277023A610}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DBE9425-FC4A-4647-9F09-12277023A610}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DBE9425-FC4A-4647-9F09-12277023A610}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DBE9425-FC4A-4647-9F09-12277023A610}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9D1B8CD-92DA-449D-A21B-864440F71019}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9D1B8CD-92DA-449D-A21B-864440F71019}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9D1B8CD-92DA-449D-A21B-864440F71019}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9D1B8CD-92DA-449D-A21B-864440F71019}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2DBE9425-FC4A-4647-9F09-12277023A610} = {606192B4-D6CE-457B-AF1D-70DECEC81C4C}
+	EndGlobalSection
+EndGlobal
